@@ -6,6 +6,7 @@ Created on Fri Jun 15 11:04:28 2018
 @author: driebel
 """
 
+# this looks great Dave! Awesome job!
 
 from sqlalchemy import create_engine
 from sqlalchemy_utils import database_exists, create_database
